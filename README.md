@@ -13,4 +13,4 @@ This is a simple portfolio website that I created using HTML, CSS, and JavaScrip
 
 
 ## Live Demo
-https://fazlulayankoushik.github.io/me/
+https://fayank.github.io/me/
